@@ -5,16 +5,16 @@
 - Major languages: TypeScript
 - Tools used: Tailwind CSS
 - Test: Jest, Vitest
-- Framework: React
+- Library: React
 - Build: Vite
 
 ## Author
 
 👤 **Yuriy Chamkoriyski**
 
+- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 - GitHub: [@Hombre2014](https://github.com/Hombre2014)
 - Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
-- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 
 ## 🤝 Contributing
 
