@@ -7,6 +7,7 @@
 - Test: Jest, Vitest
 - Tools used: Tailwind CSS
 - Major languages: TypeScript
+- Tools: Autoprefixer, postcss
 
 ## Author
 
