@@ -1,6 +1,6 @@
 # Notable
 
-> A Note taking menagement app. The project has been created via vibe coding using DeepSeek V4 Pro AI model, using Kodr application.
+> A Note taking menagement app. The project has been created via vibe coding using DeepSeek V4 Pro AI model, using Kodr application and Dev tier subscription.
 
 
 - Build: Vite.js
