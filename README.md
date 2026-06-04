@@ -7,7 +7,6 @@
 - Test: Jest, Vitest
 - Tools used: Tailwind CSS
 - Major languages: TypeScript
-- Tools: Autoprefixer, postcss
 
 ## Author
 
@@ -21,7 +20,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/Dashboard/issues).
+Feel free to check the [issues page](https://github.com/Kodr/Notable/issues).
 
 ## Show your support
 
