@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react'
-import { useNotes } from '../store'
 import { cn } from '../utils'
+import { useNotes } from '../store'
 import type { Category } from '../types'
+import { useState, useEffect } from 'react'
 
 const ICON_OPTIONS = ['👤', '💼', '🏥', '💰', '📚', '🎯', '🏠', '✈️', '🎮', '🎨', '🍔', '🏋️', '🧠', '💡', '❤️', '🌟', '🔥', '📱', '🎵', '📷']
 
@@ -20,8 +20,8 @@ interface CategoryEditorProps {
 export function CategoryEditor({ isOpen, onClose, editingCategory }: CategoryEditorProps) {
   const { addCategory, updateCategory, deleteCategory, state } = useNotes()
   const [name, setName] = useState('')
-  const [color, setColor] = useState('#8b5cf6')
   const [icon, setIcon] = useState('👤')
+  const [color, setColor] = useState('#8b5cf6')
   const [errors, setErrors] = useState<{ name?: string }>({})
 
   useEffect(() => {
