@@ -2,11 +2,11 @@
 
 > A Note taking menagement app. The project has been created via vibe coding using DeepSeek V4 Pro AI model, using Kodr application.
 
-- Major languages: TypeScript
-- Tools used: Tailwind CSS
-- Test: Jest, Vitest
-- Library: React
 - Build: Vite
+- Library: React
+- Test: Jest, Vitest
+- Tools used: Tailwind CSS
+- Major languages: TypeScript
 
 ## Author
 
