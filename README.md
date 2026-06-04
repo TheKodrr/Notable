@@ -4,9 +4,9 @@
 
 - Major languages: TypeScript
 - Tools used: Tailwind CSS
+- Test: Jest, Vitest
 - Framework: React
 - Build: Vite
-- Test: Jest
 
 ## Author
 
