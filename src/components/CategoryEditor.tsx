@@ -158,7 +158,7 @@ export function CategoryEditor({ isOpen, onClose, editingCategory }: CategoryEdi
                       : 'border-transparent hover:scale-105',
                   )}
                   style={{ backgroundColor: c }}
-                  aria-label={`Color ${c}`}
+                                    aria-label={`Color ${c}`}
                 />
               ))}
             </div>

@@ -1,6 +1,6 @@
 # Notable
 
-> A Note taking menagement app
+> A Note taking menagement app. The project has been created via vibe coding using DeepSeek V4 Pro AI model, using Kodr application.
 
 - Major languages: TypeScript
 - Framework: React
